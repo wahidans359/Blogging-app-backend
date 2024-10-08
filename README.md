@@ -1,3 +1,16 @@
+### Running commands
+`npm start`
+`node index.js`
+`nodemon`
+
+### Packages Used
+
+`express`
+`mongoose`
+`dotenv`
+`nodemon`
+
+
 API routes 
 ================
 
